@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Pravesh, the JEE coach that shows its sources">
+  <defs>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#1d2230"/></pattern>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c8f542" stop-opacity=".28"/><stop offset="1" stop-color="#7cc7ff" stop-opacity=".0"/></linearGradient>
+  </defs>
+  <rect width="1280" height="340" rx="22" fill="#0b0d12"/>
+  <rect width="1280" height="340" rx="22" fill="url(#dots)"/>
+  <ellipse cx="1080" cy="40" rx="420" ry="220" fill="url(#glow)"/>
+  <rect x="72" y="70" width="64" height="64" rx="16" fill="#c8f542"/>
+  <path d="M104 88 L124 99 L104 110 L84 99 Z M92 106 V117 C100 123 108 123 116 117 V106" fill="none" stroke="#10130a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="156" y="118" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="46" font-weight="800" fill="#ffffff">Pravesh</text>
+  <text x="72" y="206" textLength="540" lengthAdjust="spacingAndGlyphs" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#ffffff">The JEE coach that</text>
+  <rect x="72" y="222" width="640" height="70" rx="14" fill="#c8f542"/>
+  <text x="92" y="274" textLength="600" lengthAdjust="spacingAndGlyphs" font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="800" fill="#10130a">shows its sources</text>
+  <g font-family="Inter, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="600">
+    <rect x="860" y="84" width="344" height="46" rx="23" fill="#151a24" stroke="#262d3d"/>
+    <circle cx="888" cy="107" r="6" fill="#3ddc97"/>
+    <text x="906" y="114" fill="#cdd5e3">Hint first, answer later</text>
+    <rect x="860" y="146" width="344" height="46" rx="23" fill="#151a24" stroke="#262d3d"/>
+    <circle cx="888" cy="169" r="6" fill="#7cc7ff"/>
+    <text x="906" y="176" fill="#cdd5e3">Every reply cites its note</text>
+    <rect x="860" y="208" width="344" height="46" rx="23" fill="#151a24" stroke="#262d3d"/>
+    <circle cx="888" cy="231" r="6" fill="#ffc247"/>
+    <text x="906" y="238" fill="#cdd5e3">Mastery tracked per chapter</text>
+    <rect x="860" y="270" width="344" height="46" rx="23" fill="#151a24" stroke="#262d3d"/>
+    <circle cx="888" cy="293" r="6" fill="#ff6b6b"/>
+    <text x="906" y="300" fill="#cdd5e3">Guardrails on every message</text>
+  </g>
+</svg>

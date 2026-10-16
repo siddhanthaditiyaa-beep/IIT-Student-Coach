@@ -12,11 +12,13 @@ LIVE_EXAM_PATTERNS = [
     "live exam", "proctored", "this is my exam", "currently taking my exam",
     "submitting in", "graded test right now", "exam is happening now", "invigilator",
     "timed test right now", "give me just the final answer for my exam",
+    "exam right now", "during my exam", "during the exam", "answers for my exam", "answers for the exam",
 ]
 
 RANK_INTELLIGENCE_PATTERNS = [
     "am i smart", "am i intelligent", "what's my rank", "what is my rank",
     "compare me to", "how intelligent am i", "iq",
+    "my rank", "predict my rank", "will i crack", "guarantee a rank",
 ]
 
 GENERIC_ACADEMIC_TERMS = [
