@@ -1,0 +1,448 @@
+attempt_id,student_alias,question_id,concept_id,subject,chapter,attempt_status,error_type,time_spent_sec,timestamp
+02f0ee99,STU-001,Q-00031,CN-0025,Physics,Rotational Motion,correct,,395,2026-10-12T13:06:00
+5b4c8012,STU-001,Q-00246,CN-0198,Mathematics,Straight Lines,correct,,237,2026-10-07T12:04:00
+751b4c83,STU-001,Q-00152,CN-0122,Chemistry,Periodic Properties,incorrect,boundary condition ignored,117,2026-10-13T08:30:00
+66160227,STU-001,Q-00151,CN-0121,Chemistry,Periodic Properties,incorrect,conceptual confusion,344,2026-10-04T11:48:00
+99a46df0,STU-001,Q-00288,CN-0231,Mathematics,Integration,incorrect,calculation error,296,2026-10-02T09:22:00
+8350a73f,STU-001,Q-00179,CN-0139,Chemistry,Hydrocarbons,correct,,310,2026-10-02T08:23:00
+e306f0c4,STU-001,Q-00170,CN-0136,Chemistry,Coordination Compounds,correct,,388,2026-10-11T17:10:00
+e2cbbb93,STU-001,Q-00280,CN-0224,Mathematics,Limits and Derivatives,correct,,107,2026-10-11T09:47:00
+ff8b2a6a,STU-001,Q-00238,CN-0186,Mathematics,Probability,incorrect,formula misapplication,202,2026-09-28T13:43:00
+d4f398ee,STU-001,Q-00289,CN-0230,Mathematics,Integration,incorrect,incomplete case analysis,182,2026-09-20T11:09:00
+7d510557,STU-001,Q-00161,CN-0129,Chemistry,Coordination Compounds,correct,,229,2026-09-17T10:11:00
+ced66b44,STU-001,Q-00045,CN-0037,Physics,Gravitation,incorrect,formula misapplication,267,2026-10-01T09:17:00
+703e53cf,STU-001,Q-00281,CN-0225,Mathematics,Integration,incorrect,sign convention,397,2026-10-05T10:12:00
+f0acdebe,STU-001,Q-00155,CN-0124,Chemistry,Periodic Properties,incorrect,formula misapplication,77,2026-10-10T10:45:00
+0397a31d,STU-001,Q-00088,CN-0067,Physics,Magnetism,incorrect,calculation error,92,2026-10-09T10:59:00
+3f724926,STU-001,Q-00168,CN-0131,Chemistry,Coordination Compounds,correct,,106,2026-09-19T16:35:00
+aa220078,STU-001,Q-00109,CN-0083,Chemistry,Mole Concept,incorrect,unit conversion error,343,2026-09-24T11:55:00
+b14ab8e9,STU-001,Q-00243,CN-0195,Mathematics,Straight Lines,correct,,303,2026-09-30T15:46:00
+96060250,STU-001,Q-00152,CN-0122,Chemistry,Periodic Properties,incorrect,boundary condition ignored,201,2026-10-10T15:42:00
+039e257a,STU-001,Q-00157,CN-0125,Chemistry,Periodic Properties,incorrect,conceptual confusion,99,2026-10-11T09:08:00
+069a306f,STU-001,Q-00172,CN-0140,Chemistry,Hydrocarbons,correct,,58,2026-10-04T11:59:00
+7f60b9fa,STU-001,Q-00158,CN-0123,Chemistry,Periodic Properties,incorrect,formula misapplication,283,2026-10-06T10:20:00
+9924eb8b,STU-001,Q-00203,CN-0163,Mathematics,Quadratic Equations,correct,,164,2026-10-09T10:36:00
+ee532f03,STU-001,Q-00219,CN-0175,Mathematics,Sequences and Series,incorrect,incomplete case analysis,69,2026-10-09T15:03:00
+37fe43eb,STU-001,Q-00234,CN-0185,Mathematics,Probability,incorrect,incomplete case analysis,309,2026-09-24T17:40:00
+6a01977b,STU-001,Q-00233,CN-0187,Mathematics,Probability,incorrect,incomplete case analysis,85,2026-10-10T11:21:00
+c7be5613,STU-001,Q-00175,CN-0138,Chemistry,Hydrocarbons,correct,,257,2026-10-10T13:31:00
+cbee23b0,STU-001,Q-00158,CN-0123,Chemistry,Periodic Properties,correct,,313,2026-09-29T09:47:00
+7440cabe,STU-001,Q-00082,CN-0066,Physics,Magnetism,incorrect,formula misapplication,375,2026-10-08T17:55:00
+d8b6dd5b,STU-001,Q-00257,CN-0202,Mathematics,Circles,correct,,125,2026-09-19T14:54:00
+b74c990a,STU-001,Q-00189,CN-0145,Chemistry,General Organic Chemistry,incorrect,conceptual confusion,188,2026-09-20T08:49:00
+8e449800,STU-001,Q-00290,CN-0228,Mathematics,Integration,incorrect,incorrect assumption,112,2026-09-27T12:59:00
+c2553659,STU-001,Q-00275,CN-0222,Mathematics,Limits and Derivatives,correct,,227,2026-10-02T15:05:00
+2950e9ae,STU-001,Q-00202,CN-0162,Mathematics,Quadratic Equations,correct,,178,2026-10-07T16:55:00
+0eabf949,STU-001,Q-00082,CN-0066,Physics,Magnetism,correct,,94,2026-09-18T13:37:00
+db813e24,STU-001,Q-00031,CN-0025,Physics,Rotational Motion,correct,,224,2026-10-12T08:26:00
+9b97d72a,STU-001,Q-00258,CN-0208,Mathematics,Circles,incorrect,calculation error,155,2026-09-25T17:22:00
+8052b13c,STU-001,Q-00237,CN-0191,Mathematics,Probability,incorrect,formula misapplication,393,2026-09-17T15:58:00
+6fce4808,STU-001,Q-00087,CN-0071,Physics,Magnetism,incorrect,formula misapplication,57,2026-09-19T11:56:00
+51a248ee,STU-001,Q-00156,CN-0122,Chemistry,Periodic Properties,incorrect,boundary condition ignored,344,2026-09-21T15:55:00
+1cd33258,STU-001,Q-00169,CN-0132,Chemistry,Coordination Compounds,incorrect,incomplete case analysis,128,2026-10-09T08:26:00
+a7e27f8c,STU-001,Q-00272,CN-0218,Mathematics,Limits and Derivatives,correct,,199,2026-09-29T11:58:00
+46de6eef,STU-002,Q-00227,CN-0184,Mathematics,Permutations and Combinations,incorrect,incomplete case analysis,322,2026-09-20T15:29:00
+16e5fc44,STU-002,Q-00007,CN-0008,Physics,Kinematics,correct,,136,2026-10-05T15:39:00
+a20cb7ac,STU-002,Q-00221,CN-0177,Mathematics,Permutations and Combinations,incorrect,formula misapplication,311,2026-09-19T09:14:00
+38ca6b4a,STU-002,Q-00071,CN-0057,Physics,Current Electricity,incorrect,formula misapplication,392,2026-10-15T13:52:00
+f374bac6,STU-002,Q-00213,CN-0172,Mathematics,Sequences and Series,incorrect,formula misapplication,164,2026-09-17T11:12:00
+7522aa7f,STU-002,Q-00225,CN-0177,Mathematics,Permutations and Combinations,correct,,325,2026-10-09T11:37:00
+015c1d5c,STU-002,Q-00010,CN-0004,Physics,Kinematics,correct,,226,2026-10-10T11:00:00
+8bf6237b,STU-002,Q-00217,CN-0170,Mathematics,Sequences and Series,incorrect,formula misapplication,419,2026-09-25T15:04:00
+d9452ba0,STU-002,Q-00133,CN-0106,Chemistry,Electrochemistry,correct,,401,2026-10-12T17:42:00
+843fa185,STU-002,Q-00190,CN-0152,Chemistry,General Organic Chemistry,correct,,374,2026-10-03T11:31:00
+4f77abb9,STU-002,Q-00099,CN-0078,Physics,Optics,incorrect,formula misapplication,66,2026-10-11T11:22:00
+f906699e,STU-002,Q-00043,CN-0035,Physics,Gravitation,incorrect,calculation error,243,2026-10-06T08:46:00
+cfe7a42a,STU-002,Q-00041,CN-0033,Physics,Gravitation,correct,,320,2026-09-25T09:49:00
+e31f0b44,STU-002,Q-00099,CN-0078,Physics,Optics,correct,,104,2026-10-05T08:48:00
+277b5be5,STU-002,Q-00211,CN-0169,Mathematics,Sequences and Series,incorrect,calculation error,351,2026-10-13T11:44:00
+ba040a94,STU-002,Q-00293,CN-0235,Mathematics,Vectors,incorrect,incomplete case analysis,82,2026-10-05T09:44:00
+7fae0a6b,STU-002,Q-00045,CN-0037,Physics,Gravitation,correct,,106,2026-09-25T16:00:00
+1521f652,STU-002,Q-00229,CN-0183,Mathematics,Permutations and Combinations,correct,,80,2026-10-04T10:14:00
+819b0c58,STU-002,Q-00008,CN-0001,Physics,Kinematics,correct,,332,2026-10-07T14:09:00
+324ce2dd,STU-002,Q-00076,CN-0061,Physics,Current Electricity,incorrect,formula misapplication,282,2026-09-22T09:35:00
+61b25908,STU-002,Q-00296,CN-0237,Mathematics,Vectors,incorrect,sign convention,153,2026-10-04T11:01:00
+d5ece6d3,STU-002,Q-00178,CN-0142,Chemistry,Hydrocarbons,incorrect,conceptual confusion,105,2026-09-24T15:50:00
+44a73da5,STU-002,Q-00075,CN-0057,Physics,Current Electricity,incorrect,formula misapplication,164,2026-10-01T13:31:00
+a218dd9f,STU-002,Q-00073,CN-0060,Physics,Current Electricity,incorrect,unit conversion error,250,2026-10-12T13:26:00
+c464352d,STU-002,Q-00041,CN-0033,Physics,Gravitation,correct,,298,2026-10-05T11:01:00
+b974a4a0,STU-002,Q-00229,CN-0183,Mathematics,Permutations and Combinations,correct,,133,2026-10-04T12:22:00
+9c992583,STU-002,Q-00165,CN-0133,Chemistry,Coordination Compounds,incorrect,conceptual confusion,257,2026-10-07T15:47:00
+da159d43,STU-002,Q-00008,CN-0001,Physics,Kinematics,correct,,182,2026-10-14T14:15:00
+a152cfd1,STU-002,Q-00071,CN-0057,Physics,Current Electricity,incorrect,formula misapplication,234,2026-09-20T10:12:00
+5479cbec,STU-002,Q-00009,CN-0002,Physics,Kinematics,correct,,157,2026-09-28T17:49:00
+b63a6bc0,STU-002,Q-00174,CN-0140,Chemistry,Hydrocarbons,incorrect,formula misapplication,312,2026-10-10T12:44:00
+bbf7d98f,STU-002,Q-00223,CN-0179,Mathematics,Permutations and Combinations,correct,,307,2026-10-07T10:51:00
+7acd1f74,STU-002,Q-00298,CN-0235,Mathematics,Vectors,incorrect,formula misapplication,175,2026-10-05T12:09:00
+cf176b34,STU-002,Q-00006,CN-0007,Physics,Kinematics,correct,,232,2026-10-14T09:39:00
+4dd75f67,STU-002,Q-00138,CN-0111,Chemistry,Electrochemistry,correct,,156,2026-10-07T09:16:00
+dba6f478,STU-002,Q-00267,CN-0211,Mathematics,Trigonometric Equations,incorrect,boundary condition ignored,197,2026-09-22T09:19:00
+516438f3,STU-002,Q-00010,CN-0004,Physics,Kinematics,correct,,383,2026-09-29T09:06:00
+f28d937a,STU-002,Q-00076,CN-0061,Physics,Current Electricity,correct,,315,2026-09-28T15:02:00
+35acf140,STU-002,Q-00217,CN-0170,Mathematics,Sequences and Series,incorrect,formula misapplication,264,2026-09-26T14:21:00
+7d13d002,STU-002,Q-00219,CN-0175,Mathematics,Sequences and Series,correct,,114,2026-10-09T13:23:00
+8a020c5c,STU-002,Q-00226,CN-0182,Mathematics,Permutations and Combinations,correct,,141,2026-09-25T11:19:00
+cc9563dc,STU-002,Q-00180,CN-0144,Chemistry,Hydrocarbons,incorrect,incomplete case analysis,381,2026-10-11T15:33:00
+8a525be0,STU-002,Q-00261,CN-0209,Mathematics,Trigonometric Equations,correct,,399,2026-10-06T14:57:00
+2765e3b9,STU-002,Q-00243,CN-0195,Mathematics,Straight Lines,correct,,256,2026-10-10T17:06:00
+8af1654b,STU-002,Q-00009,CN-0002,Physics,Kinematics,incorrect,formula misapplication,92,2026-10-06T14:14:00
+330e3777,STU-003,Q-00151,CN-0121,Chemistry,Periodic Properties,correct,,132,2026-10-09T16:28:00
+fdeac4b1,STU-003,Q-00014,CN-0013,Physics,Laws of Motion,incorrect,formula misapplication,261,2026-09-30T14:23:00
+bd085c52,STU-003,Q-00038,CN-0027,Physics,Rotational Motion,incorrect,conceptual confusion,270,2026-09-23T14:26:00
+c18caf10,STU-003,Q-00240,CN-0191,Mathematics,Probability,correct,,85,2026-09-17T14:24:00
+3075ea81,STU-003,Q-00010,CN-0004,Physics,Kinematics,incorrect,boundary condition ignored,264,2026-10-12T15:04:00
+65f71bd5,STU-003,Q-00219,CN-0175,Mathematics,Sequences and Series,incorrect,incomplete case analysis,49,2026-09-25T13:25:00
+1b82aef2,STU-003,Q-00189,CN-0145,Chemistry,General Organic Chemistry,incorrect,conceptual confusion,118,2026-10-07T11:58:00
+0c59237f,STU-003,Q-00234,CN-0185,Mathematics,Probability,incorrect,incomplete case analysis,402,2026-10-01T11:34:00
+8bcd0aac,STU-003,Q-00236,CN-0192,Mathematics,Probability,correct,,314,2026-09-24T16:40:00
+11fbec29,STU-003,Q-00222,CN-0178,Mathematics,Permutations and Combinations,incorrect,incomplete case analysis,315,2026-10-06T17:22:00
+7a878950,STU-003,Q-00120,CN-0091,Chemistry,Chemical Equilibrium,incorrect,conceptual confusion,321,2026-09-20T08:12:00
+2b0d86d4,STU-003,Q-00213,CN-0172,Mathematics,Sequences and Series,incorrect,formula misapplication,318,2026-10-11T17:33:00
+1ea300b9,STU-003,Q-00141,CN-0113,Chemistry,Chemical Bonding,incorrect,incomplete case analysis,420,2026-09-22T16:48:00
+77faa448,STU-003,Q-00153,CN-0124,Chemistry,Periodic Properties,correct,,398,2026-09-30T13:53:00
+3fccf89c,STU-003,Q-00017,CN-0015,Physics,Laws of Motion,incorrect,sign convention,349,2026-09-18T12:40:00
+87a87200,STU-003,Q-00048,CN-0033,Physics,Gravitation,correct,,53,2026-10-12T09:53:00
+4b6fa573,STU-003,Q-00184,CN-0146,Chemistry,General Organic Chemistry,correct,,168,2026-10-14T08:58:00
+de98ae78,STU-003,Q-00226,CN-0182,Mathematics,Permutations and Combinations,correct,,311,2026-10-02T08:06:00
+2b893b4b,STU-003,Q-00049,CN-0039,Physics,Gravitation,correct,,279,2026-10-04T14:18:00
+3e8b7985,STU-003,Q-00012,CN-0010,Physics,Laws of Motion,incorrect,formula misapplication,145,2026-09-20T10:55:00
+15a535f1,STU-003,Q-00115,CN-0092,Chemistry,Chemical Equilibrium,incorrect,calculation error,175,2026-10-10T09:03:00
+8cb91baf,STU-003,Q-00041,CN-0033,Physics,Gravitation,correct,,386,2026-09-19T08:25:00
+a1672599,STU-003,Q-00116,CN-0093,Chemistry,Chemical Equilibrium,incorrect,formula misapplication,62,2026-09-23T10:02:00
+3460a442,STU-003,Q-00138,CN-0111,Chemistry,Electrochemistry,correct,,48,2026-10-13T15:08:00
+ba4b0771,STU-003,Q-00060,CN-0047,Physics,Thermodynamics,incorrect,boundary condition ignored,324,2026-09-30T13:35:00
+0da006fb,STU-003,Q-00049,CN-0039,Physics,Gravitation,correct,,322,2026-09-27T08:47:00
+69db8679,STU-003,Q-00004,CN-0005,Physics,Kinematics,correct,,242,2026-10-01T16:31:00
+8f2606ce,STU-003,Q-00232,CN-0186,Mathematics,Probability,correct,,147,2026-09-26T14:58:00
+58260a30,STU-003,Q-00226,CN-0182,Mathematics,Permutations and Combinations,correct,,83,2026-09-25T15:08:00
+deddc341,STU-003,Q-00200,CN-0155,Chemistry,Aldehydes and Ketones,incorrect,incomplete case analysis,400,2026-09-21T13:51:00
+6129bdeb,STU-003,Q-00196,CN-0159,Chemistry,Aldehydes and Ketones,correct,,90,2026-09-28T16:02:00
+be19e269,STU-003,Q-00187,CN-0149,Chemistry,General Organic Chemistry,incorrect,formula misapplication,394,2026-10-05T09:16:00
+aceb11b8,STU-003,Q-00215,CN-0169,Mathematics,Sequences and Series,correct,,340,2026-10-03T13:50:00
+2ceeed8c,STU-003,Q-00045,CN-0037,Physics,Gravitation,correct,,410,2026-10-15T17:31:00
+9b7839eb,STU-003,Q-00120,CN-0091,Chemistry,Chemical Equilibrium,correct,,302,2026-09-24T09:58:00
+f0b6459a,STU-003,Q-00182,CN-0147,Chemistry,General Organic Chemistry,correct,,174,2026-10-15T09:00:00
+9f3f000c,STU-004,Q-00108,CN-0088,Chemistry,Mole Concept,incorrect,formula misapplication,255,2026-09-19T12:56:00
+07d7ba06,STU-004,Q-00145,CN-0117,Chemistry,Chemical Bonding,correct,,149,2026-09-19T15:08:00
+aa2939cf,STU-004,Q-00045,CN-0037,Physics,Gravitation,correct,,211,2026-09-21T11:07:00
+352991ba,STU-004,Q-00092,CN-0074,Physics,Optics,correct,,360,2026-10-11T12:17:00
+dd9a7e7d,STU-004,Q-00125,CN-0102,Chemistry,Chemical Kinetics,incorrect,unit conversion error,276,2026-09-28T11:33:00
+6e35de9d,STU-004,Q-00183,CN-0148,Chemistry,General Organic Chemistry,incorrect,incomplete case analysis,388,2026-10-14T14:40:00
+4e9fe834,STU-004,Q-00198,CN-0160,Chemistry,Aldehydes and Ketones,incorrect,formula misapplication,63,2026-09-25T09:32:00
+a122d0d2,STU-004,Q-00026,CN-0021,Physics,Work Energy Power,incorrect,formula misapplication,318,2026-09-19T10:57:00
+59c90139,STU-004,Q-00025,CN-0017,Physics,Work Energy Power,incorrect,incomplete case analysis,244,2026-09-19T09:22:00
+e8d8235c,STU-004,Q-00024,CN-0022,Physics,Work Energy Power,correct,,231,2026-09-29T10:41:00
+2cc11466,STU-004,Q-00189,CN-0145,Chemistry,General Organic Chemistry,incorrect,conceptual confusion,296,2026-10-04T17:31:00
+07f478d7,STU-004,Q-00078,CN-0060,Physics,Current Electricity,incorrect,unit conversion error,324,2026-10-10T10:35:00
+a2cbc514,STU-004,Q-00002,CN-0002,Physics,Kinematics,correct,,309,2026-10-03T15:54:00
+c302e4a4,STU-004,Q-00237,CN-0191,Mathematics,Probability,incorrect,formula misapplication,219,2026-10-06T17:57:00
+dfca29dc,STU-004,Q-00198,CN-0160,Chemistry,Aldehydes and Ketones,correct,,328,2026-10-12T16:12:00
+7180131f,STU-004,Q-00146,CN-0115,Chemistry,Chemical Bonding,correct,,283,2026-10-12T16:32:00
+76b9b1fe,STU-004,Q-00239,CN-0187,Mathematics,Probability,incorrect,incomplete case analysis,261,2026-10-02T15:46:00
+ff69704a,STU-004,Q-00008,CN-0001,Physics,Kinematics,correct,,69,2026-10-01T09:54:00
+3f81bdbf,STU-004,Q-00263,CN-0211,Mathematics,Trigonometric Equations,correct,,262,2026-10-13T13:39:00
+4eba6849,STU-004,Q-00236,CN-0192,Mathematics,Probability,incorrect,incorrect assumption,177,2026-10-15T15:35:00
+1530a3b7,STU-004,Q-00262,CN-0210,Mathematics,Trigonometric Equations,incorrect,incomplete case analysis,340,2026-10-04T16:43:00
+d325eca6,STU-004,Q-00016,CN-0014,Physics,Laws of Motion,incorrect,formula misapplication,354,2026-09-26T08:08:00
+86ffc468,STU-004,Q-00023,CN-0020,Physics,Work Energy Power,incorrect,incorrect assumption,280,2026-10-07T17:26:00
+c5f2ac85,STU-004,Q-00147,CN-0113,Chemistry,Chemical Bonding,correct,,417,2026-09-18T13:34:00
+1c3e16e0,STU-004,Q-00103,CN-0083,Chemistry,Mole Concept,correct,,355,2026-09-29T12:44:00
+ebcd6d62,STU-004,Q-00181,CN-0146,Chemistry,General Organic Chemistry,incorrect,conceptual confusion,371,2026-09-26T12:15:00
+1b43e030,STU-004,Q-00236,CN-0192,Mathematics,Probability,incorrect,incorrect assumption,235,2026-10-02T10:08:00
+5b315837,STU-004,Q-00268,CN-0214,Mathematics,Trigonometric Equations,incorrect,formula misapplication,242,2026-09-27T11:34:00
+9a6aa668,STU-004,Q-00295,CN-0234,Mathematics,Vectors,incorrect,calculation error,56,2026-10-15T11:52:00
+6e8786ac,STU-004,Q-00149,CN-0114,Chemistry,Chemical Bonding,incorrect,formula misapplication,178,2026-09-20T17:05:00
+0ec3703b,STU-004,Q-00075,CN-0057,Physics,Current Electricity,incorrect,formula misapplication,84,2026-09-23T13:37:00
+9cce902e,STU-004,Q-00183,CN-0148,Chemistry,General Organic Chemistry,correct,,319,2026-10-04T08:48:00
+1dd60827,STU-004,Q-00030,CN-0017,Physics,Work Energy Power,correct,,400,2026-10-11T16:10:00
+f85d1813,STU-004,Q-00002,CN-0002,Physics,Kinematics,correct,,332,2026-10-13T11:23:00
+70f1a6bf,STU-004,Q-00165,CN-0133,Chemistry,Coordination Compounds,incorrect,conceptual confusion,142,2026-10-04T08:30:00
+b743433b,STU-004,Q-00257,CN-0202,Mathematics,Circles,incorrect,incomplete case analysis,69,2026-10-07T08:51:00
+b091d372,STU-005,Q-00259,CN-0206,Mathematics,Circles,incorrect,formula misapplication,196,2026-10-09T12:31:00
+131f0462,STU-005,Q-00262,CN-0210,Mathematics,Trigonometric Equations,correct,,50,2026-10-03T16:42:00
+4191a453,STU-005,Q-00250,CN-0196,Mathematics,Straight Lines,incorrect,formula misapplication,92,2026-10-07T08:35:00
+76c79a3b,STU-005,Q-00059,CN-0043,Physics,Thermodynamics,incorrect,unit conversion error,330,2026-09-19T08:44:00
+63edadaf,STU-005,Q-00243,CN-0195,Mathematics,Straight Lines,correct,,173,2026-10-09T08:35:00
+1088a172,STU-005,Q-00046,CN-0038,Physics,Gravitation,correct,,372,2026-09-21T14:58:00
+585ba7a4,STU-005,Q-00200,CN-0155,Chemistry,Aldehydes and Ketones,incorrect,incomplete case analysis,160,2026-09-20T08:53:00
+64815ea7,STU-005,Q-00148,CN-0118,Chemistry,Chemical Bonding,correct,,410,2026-10-14T12:48:00
+48b0d659,STU-005,Q-00244,CN-0193,Mathematics,Straight Lines,incorrect,sign convention,197,2026-10-07T10:56:00
+a7775743,STU-005,Q-00191,CN-0154,Chemistry,Aldehydes and Ketones,incorrect,incomplete case analysis,148,2026-10-06T10:35:00
+51824e0c,STU-005,Q-00061,CN-0049,Physics,Electrostatics,correct,,93,2026-10-05T14:34:00
+bef36838,STU-005,Q-00148,CN-0118,Chemistry,Chemical Bonding,incorrect,conceptual confusion,360,2026-09-19T10:59:00
+af682c9b,STU-005,Q-00181,CN-0146,Chemistry,General Organic Chemistry,correct,,295,2026-09-24T08:11:00
+4106acfb,STU-005,Q-00031,CN-0025,Physics,Rotational Motion,incorrect,formula misapplication,329,2026-10-05T11:49:00
+c209cd98,STU-005,Q-00136,CN-0109,Chemistry,Electrochemistry,correct,,55,2026-09-28T16:38:00
+a8d633f3,STU-005,Q-00038,CN-0027,Physics,Rotational Motion,incorrect,conceptual confusion,287,2026-10-14T17:20:00
+1e2a9ffe,STU-005,Q-00282,CN-0226,Mathematics,Integration,incorrect,incomplete case analysis,169,2026-09-25T11:56:00
+024ae9f7,STU-005,Q-00034,CN-0029,Physics,Rotational Motion,incorrect,formula misapplication,107,2026-10-07T14:22:00
+a484d2b3,STU-005,Q-00009,CN-0002,Physics,Kinematics,incorrect,formula misapplication,112,2026-10-10T11:17:00
+6fa525da,STU-005,Q-00030,CN-0017,Physics,Work Energy Power,correct,,329,2026-10-06T10:39:00
+8b29c433,STU-005,Q-00034,CN-0029,Physics,Rotational Motion,correct,,350,2026-10-03T11:44:00
+bd88d912,STU-005,Q-00045,CN-0037,Physics,Gravitation,incorrect,formula misapplication,214,2026-09-23T13:56:00
+2d01e7e4,STU-005,Q-00062,CN-0050,Physics,Electrostatics,incorrect,unit conversion error,157,2026-09-22T13:26:00
+dabe407f,STU-005,Q-00185,CN-0148,Chemistry,General Organic Chemistry,correct,,413,2026-10-01T10:15:00
+113b03b3,STU-005,Q-00052,CN-0043,Physics,Thermodynamics,incorrect,formula misapplication,243,2026-10-07T10:05:00
+af94e003,STU-005,Q-00139,CN-0108,Chemistry,Electrochemistry,correct,,188,2026-10-05T10:52:00
+93be3fff,STU-005,Q-00241,CN-0193,Mathematics,Straight Lines,incorrect,calculation error,207,2026-10-11T13:47:00
+2b932cfe,STU-005,Q-00185,CN-0148,Chemistry,General Organic Chemistry,correct,,334,2026-10-07T17:47:00
+44118b60,STU-005,Q-00148,CN-0118,Chemistry,Chemical Bonding,correct,,181,2026-09-29T16:44:00
+b0b1b22e,STU-005,Q-00281,CN-0225,Mathematics,Integration,correct,,48,2026-10-13T11:41:00
+a054ddcf,STU-005,Q-00061,CN-0049,Physics,Electrostatics,correct,,205,2026-09-17T17:44:00
+71957844,STU-005,Q-00191,CN-0154,Chemistry,Aldehydes and Ketones,correct,,71,2026-10-14T17:42:00
+086acb0a,STU-005,Q-00030,CN-0017,Physics,Work Energy Power,correct,,147,2026-10-09T14:16:00
+b1c562bc,STU-005,Q-00005,CN-0006,Physics,Kinematics,incorrect,formula misapplication,94,2026-09-29T09:52:00
+5b006306,STU-005,Q-00037,CN-0030,Physics,Rotational Motion,incorrect,formula misapplication,87,2026-09-17T16:13:00
+0cbea736,STU-005,Q-00171,CN-0137,Chemistry,Hydrocarbons,correct,,201,2026-10-08T09:17:00
+b45590c1,STU-006,Q-00102,CN-0082,Chemistry,Mole Concept,incorrect,incomplete case analysis,92,2026-10-11T10:52:00
+c96827ba,STU-006,Q-00210,CN-0167,Mathematics,Quadratic Equations,incorrect,incomplete case analysis,300,2026-10-01T09:55:00
+114a6df1,STU-006,Q-00100,CN-0076,Physics,Optics,correct,,142,2026-10-10T14:32:00
+831fad47,STU-006,Q-00298,CN-0235,Mathematics,Vectors,correct,,259,2026-10-11T09:42:00
+e0802040,STU-006,Q-00066,CN-0055,Physics,Electrostatics,correct,,349,2026-10-12T15:42:00
+506423b0,STU-006,Q-00065,CN-0053,Physics,Electrostatics,incorrect,unit conversion error,178,2026-10-15T11:08:00
+6508e380,STU-006,Q-00186,CN-0147,Chemistry,General Organic Chemistry,correct,,300,2026-10-03T14:05:00
+413aa6db,STU-006,Q-00039,CN-0031,Physics,Rotational Motion,incorrect,conceptual confusion,325,2026-09-17T12:36:00
+d07a2e4b,STU-006,Q-00003,CN-0003,Physics,Kinematics,correct,,253,2026-10-01T15:16:00
+dbd0cf04,STU-006,Q-00153,CN-0124,Chemistry,Periodic Properties,correct,,358,2026-10-10T08:14:00
+2782f16f,STU-006,Q-00091,CN-0073,Physics,Optics,correct,,368,2026-09-17T15:43:00
+f1e20565,STU-006,Q-00201,CN-0161,Mathematics,Quadratic Equations,correct,,284,2026-10-11T11:07:00
+ffbeaad5,STU-006,Q-00170,CN-0136,Chemistry,Coordination Compounds,incorrect,conceptual confusion,376,2026-10-04T17:15:00
+1f44a464,STU-006,Q-00069,CN-0056,Physics,Electrostatics,incorrect,conceptual confusion,205,2026-09-27T08:32:00
+a00dc09f,STU-006,Q-00068,CN-0050,Physics,Electrostatics,incorrect,calculation error,118,2026-10-14T16:13:00
+fcc1a27c,STU-006,Q-00283,CN-0227,Mathematics,Integration,correct,,375,2026-10-04T10:33:00
+b1ebc8f8,STU-006,Q-00119,CN-0094,Chemistry,Chemical Equilibrium,incorrect,incomplete case analysis,61,2026-09-20T15:37:00
+18041c88,STU-006,Q-00053,CN-0041,Physics,Thermodynamics,correct,,142,2026-09-18T11:08:00
+3698f584,STU-006,Q-00056,CN-0041,Physics,Thermodynamics,correct,,323,2026-10-01T17:18:00
+206009c3,STU-006,Q-00160,CN-0128,Chemistry,Periodic Properties,correct,,296,2026-09-17T12:18:00
+de7a55ca,STU-006,Q-00057,CN-0046,Physics,Thermodynamics,correct,,230,2026-09-18T12:32:00
+e19bdbb0,STU-006,Q-00061,CN-0049,Physics,Electrostatics,correct,,413,2026-09-20T17:06:00
+1fb9ec2c,STU-006,Q-00112,CN-0090,Chemistry,Chemical Equilibrium,incorrect,conceptual confusion,131,2026-09-17T09:55:00
+5dfe5373,STU-006,Q-00184,CN-0146,Chemistry,General Organic Chemistry,correct,,63,2026-10-04T16:46:00
+1bba7726,STU-006,Q-00187,CN-0149,Chemistry,General Organic Chemistry,incorrect,formula misapplication,243,2026-10-15T16:13:00
+0072d757,STU-006,Q-00001,CN-0001,Physics,Kinematics,correct,,125,2026-09-25T17:35:00
+158a59ae,STU-006,Q-00066,CN-0055,Physics,Electrostatics,correct,,184,2026-10-15T11:44:00
+3614bd8c,STU-006,Q-00183,CN-0148,Chemistry,General Organic Chemistry,incorrect,incomplete case analysis,192,2026-10-07T16:01:00
+82548f20,STU-006,Q-00070,CN-0052,Physics,Electrostatics,correct,,251,2026-09-29T15:44:00
+2f4d8725,STU-006,Q-00004,CN-0005,Physics,Kinematics,correct,,134,2026-10-11T16:04:00
+e647008b,STU-006,Q-00299,CN-0238,Mathematics,Vectors,incorrect,formula misapplication,317,2026-09-23T11:34:00
+2bdf8ee3,STU-006,Q-00108,CN-0088,Chemistry,Mole Concept,incorrect,formula misapplication,191,2026-10-06T17:48:00
+727f0a0e,STU-006,Q-00159,CN-0122,Chemistry,Periodic Properties,incorrect,boundary condition ignored,265,2026-10-06T15:25:00
+a1f65483,STU-006,Q-00182,CN-0147,Chemistry,General Organic Chemistry,incorrect,conceptual confusion,272,2026-10-10T09:39:00
+3a413e41,STU-006,Q-00157,CN-0125,Chemistry,Periodic Properties,correct,,245,2026-09-19T10:02:00
+7bf155f7,STU-007,Q-00014,CN-0013,Physics,Laws of Motion,correct,,282,2026-09-20T15:10:00
+6646e6b9,STU-007,Q-00111,CN-0089,Chemistry,Chemical Equilibrium,correct,,351,2026-09-26T11:10:00
+8a15b5a5,STU-007,Q-00151,CN-0121,Chemistry,Periodic Properties,incorrect,conceptual confusion,170,2026-10-01T14:58:00
+80fa6603,STU-007,Q-00237,CN-0191,Mathematics,Probability,correct,,348,2026-09-24T17:56:00
+8feecac7,STU-007,Q-00186,CN-0147,Chemistry,General Organic Chemistry,correct,,313,2026-09-22T12:51:00
+ce52ed72,STU-007,Q-00121,CN-0098,Chemistry,Chemical Kinetics,incorrect,formula misapplication,137,2026-09-17T13:46:00
+3f8f3f06,STU-007,Q-00220,CN-0171,Mathematics,Sequences and Series,correct,,416,2026-09-17T10:28:00
+7ff19a9d,STU-007,Q-00102,CN-0082,Chemistry,Mole Concept,correct,,253,2026-10-15T08:18:00
+da51f7bb,STU-007,Q-00101,CN-0081,Chemistry,Mole Concept,correct,,297,2026-09-29T15:50:00
+fd19eba5,STU-007,Q-00102,CN-0082,Chemistry,Mole Concept,correct,,361,2026-09-20T10:46:00
+611cb84f,STU-007,Q-00265,CN-0216,Mathematics,Trigonometric Equations,correct,,420,2026-09-30T09:12:00
+70647873,STU-007,Q-00235,CN-0189,Mathematics,Probability,correct,,184,2026-10-09T16:56:00
+797be450,STU-007,Q-00137,CN-0106,Chemistry,Electrochemistry,correct,,270,2026-10-10T14:28:00
+f4621c95,STU-007,Q-00020,CN-0011,Physics,Laws of Motion,correct,,155,2026-10-06T16:27:00
+59d689d4,STU-007,Q-00155,CN-0124,Chemistry,Periodic Properties,incorrect,formula misapplication,133,2026-09-20T11:17:00
+2b16345e,STU-007,Q-00009,CN-0002,Physics,Kinematics,incorrect,formula misapplication,82,2026-09-27T17:24:00
+fa26bc05,STU-007,Q-00237,CN-0191,Mathematics,Probability,correct,,130,2026-09-29T10:54:00
+45eaecd2,STU-007,Q-00012,CN-0010,Physics,Laws of Motion,correct,,295,2026-10-09T15:59:00
+9eb1262f,STU-007,Q-00006,CN-0007,Physics,Kinematics,incorrect,formula misapplication,236,2026-09-17T15:50:00
+f509facc,STU-007,Q-00240,CN-0191,Mathematics,Probability,correct,,209,2026-09-30T12:59:00
+3797debf,STU-007,Q-00110,CN-0082,Chemistry,Mole Concept,correct,,196,2026-09-30T16:21:00
+b826d6cc,STU-007,Q-00143,CN-0115,Chemistry,Chemical Bonding,incorrect,formula misapplication,177,2026-09-20T17:25:00
+f35deb9d,STU-007,Q-00141,CN-0113,Chemistry,Chemical Bonding,incorrect,incomplete case analysis,191,2026-10-13T16:41:00
+a249b05f,STU-007,Q-00131,CN-0105,Chemistry,Electrochemistry,incorrect,sign convention,317,2026-09-27T10:40:00
+b657ab6a,STU-007,Q-00156,CN-0122,Chemistry,Periodic Properties,incorrect,boundary condition ignored,311,2026-10-14T17:32:00
+35012eed,STU-007,Q-00142,CN-0114,Chemistry,Chemical Bonding,incorrect,incomplete case analysis,166,2026-09-28T16:01:00
+32bd7c66,STU-007,Q-00006,CN-0007,Physics,Kinematics,incorrect,formula misapplication,282,2026-10-07T17:31:00
+03f1357f,STU-007,Q-00262,CN-0210,Mathematics,Trigonometric Equations,incorrect,incomplete case analysis,81,2026-09-19T10:49:00
+49243efe,STU-007,Q-00212,CN-0170,Mathematics,Sequences and Series,correct,,179,2026-09-19T12:15:00
+be0ded2e,STU-007,Q-00157,CN-0125,Chemistry,Periodic Properties,correct,,387,2026-10-12T11:57:00
+59e17861,STU-007,Q-00020,CN-0011,Physics,Laws of Motion,correct,,193,2026-10-11T16:50:00
+9fbdace6,STU-007,Q-00220,CN-0171,Mathematics,Sequences and Series,incorrect,formula misapplication,75,2026-10-10T16:53:00
+3896449c,STU-007,Q-00160,CN-0128,Chemistry,Periodic Properties,incorrect,incomplete case analysis,293,2026-10-08T16:43:00
+51a1ba6b,STU-007,Q-00014,CN-0013,Physics,Laws of Motion,correct,,94,2026-09-25T08:21:00
+43f93012,STU-007,Q-00139,CN-0108,Chemistry,Electrochemistry,correct,,413,2026-10-06T15:36:00
+cdc5abd9,STU-008,Q-00105,CN-0085,Chemistry,Mole Concept,correct,,260,2026-09-21T10:35:00
+7eac7642,STU-008,Q-00085,CN-0065,Physics,Magnetism,correct,,230,2026-10-04T11:12:00
+a5289661,STU-008,Q-00167,CN-0135,Chemistry,Coordination Compounds,correct,,363,2026-10-06T15:19:00
+9caf1b98,STU-008,Q-00102,CN-0082,Chemistry,Mole Concept,correct,,86,2026-09-24T14:26:00
+62c90e5f,STU-008,Q-00184,CN-0146,Chemistry,General Organic Chemistry,correct,,144,2026-09-30T13:20:00
+4eeded68,STU-008,Q-00109,CN-0083,Chemistry,Mole Concept,correct,,401,2026-09-25T08:20:00
+a6b90278,STU-008,Q-00182,CN-0147,Chemistry,General Organic Chemistry,correct,,378,2026-09-19T16:51:00
+6c58a2f3,STU-008,Q-00181,CN-0146,Chemistry,General Organic Chemistry,incorrect,conceptual confusion,161,2026-09-19T10:44:00
+67354f21,STU-008,Q-00215,CN-0169,Mathematics,Sequences and Series,correct,,101,2026-09-27T11:51:00
+1ced04d4,STU-008,Q-00041,CN-0033,Physics,Gravitation,incorrect,misreading given data,298,2026-09-21T12:02:00
+2589d490,STU-008,Q-00245,CN-0197,Mathematics,Straight Lines,incorrect,formula misapplication,51,2026-10-03T12:57:00
+5507bfec,STU-008,Q-00289,CN-0230,Mathematics,Integration,incorrect,incomplete case analysis,328,2026-09-28T12:15:00
+ad3b8bd0,STU-008,Q-00163,CN-0132,Chemistry,Coordination Compounds,correct,,272,2026-09-17T10:03:00
+40efdc64,STU-008,Q-00102,CN-0082,Chemistry,Mole Concept,correct,,337,2026-10-03T09:11:00
+58515859,STU-008,Q-00162,CN-0130,Chemistry,Coordination Compounds,correct,,207,2026-10-01T08:47:00
+4aa15286,STU-008,Q-00236,CN-0192,Mathematics,Probability,correct,,373,2026-10-15T11:39:00
+8bd4382d,STU-008,Q-00044,CN-0037,Physics,Gravitation,incorrect,formula misapplication,415,2026-09-22T11:00:00
+c6fa9381,STU-008,Q-00239,CN-0187,Mathematics,Probability,correct,,200,2026-10-13T11:19:00
+33034c50,STU-008,Q-00048,CN-0033,Physics,Gravitation,correct,,253,2026-10-01T13:34:00
+716636b9,STU-008,Q-00181,CN-0146,Chemistry,General Organic Chemistry,correct,,132,2026-10-11T17:47:00
+50143084,STU-008,Q-00250,CN-0196,Mathematics,Straight Lines,correct,,316,2026-09-21T12:26:00
+5678dbec,STU-008,Q-00108,CN-0088,Chemistry,Mole Concept,correct,,400,2026-10-01T09:22:00
+dcbeb42a,STU-008,Q-00156,CN-0122,Chemistry,Periodic Properties,incorrect,boundary condition ignored,242,2026-10-13T17:30:00
+16c5b650,STU-008,Q-00290,CN-0228,Mathematics,Integration,incorrect,incorrect assumption,291,2026-09-22T08:57:00
+1e8efb26,STU-008,Q-00186,CN-0147,Chemistry,General Organic Chemistry,correct,,105,2026-09-22T13:19:00
+679307d7,STU-008,Q-00120,CN-0091,Chemistry,Chemical Equilibrium,correct,,291,2026-09-25T09:14:00
+2a5242a5,STU-008,Q-00158,CN-0123,Chemistry,Periodic Properties,correct,,183,2026-10-01T14:40:00
+7a8bae92,STU-008,Q-00293,CN-0235,Mathematics,Vectors,incorrect,incomplete case analysis,103,2026-09-21T08:37:00
+037ed9c7,STU-008,Q-00023,CN-0020,Physics,Work Energy Power,incorrect,incorrect assumption,196,2026-10-07T13:43:00
+4f23682d,STU-008,Q-00021,CN-0017,Physics,Work Energy Power,incorrect,formula misapplication,150,2026-10-02T13:15:00
+ca6c7391,STU-008,Q-00215,CN-0169,Mathematics,Sequences and Series,incorrect,formula misapplication,307,2026-10-09T12:16:00
+df38e2bc,STU-008,Q-00089,CN-0072,Physics,Magnetism,correct,,194,2026-10-06T12:19:00
+78ac05ae,STU-008,Q-00006,CN-0007,Physics,Kinematics,incorrect,formula misapplication,83,2026-10-03T11:16:00
+ee3c9ca6,STU-009,Q-00030,CN-0017,Physics,Work Energy Power,incorrect,calculation error,358,2026-10-05T08:46:00
+256d9494,STU-009,Q-00003,CN-0003,Physics,Kinematics,correct,,321,2026-10-13T17:11:00
+17e3ddb6,STU-009,Q-00026,CN-0021,Physics,Work Energy Power,incorrect,formula misapplication,367,2026-10-06T10:41:00
+d2da204e,STU-009,Q-00224,CN-0181,Mathematics,Permutations and Combinations,correct,,242,2026-09-18T17:23:00
+d8f71d21,STU-009,Q-00126,CN-0098,Chemistry,Chemical Kinetics,incorrect,calculation error,181,2026-10-01T14:58:00
+26332853,STU-009,Q-00229,CN-0183,Mathematics,Permutations and Combinations,correct,,249,2026-10-08T17:11:00
+3849f5b5,STU-009,Q-00125,CN-0102,Chemistry,Chemical Kinetics,incorrect,unit conversion error,165,2026-10-14T09:09:00
+b7c3532a,STU-009,Q-00225,CN-0177,Mathematics,Permutations and Combinations,correct,,46,2026-09-20T12:12:00
+5336217c,STU-009,Q-00272,CN-0218,Mathematics,Limits and Derivatives,incorrect,formula misapplication,164,2026-10-11T15:34:00
+4ee0c992,STU-009,Q-00125,CN-0102,Chemistry,Chemical Kinetics,incorrect,unit conversion error,383,2026-10-08T13:31:00
+ce0a0602,STU-009,Q-00112,CN-0090,Chemistry,Chemical Equilibrium,correct,,418,2026-09-17T08:22:00
+f28693f0,STU-009,Q-00120,CN-0091,Chemistry,Chemical Equilibrium,correct,,321,2026-09-22T15:11:00
+a1db6761,STU-009,Q-00118,CN-0096,Chemistry,Chemical Equilibrium,correct,,142,2026-09-22T14:42:00
+dc643890,STU-009,Q-00298,CN-0235,Mathematics,Vectors,correct,,256,2026-09-25T13:48:00
+c16eb3ed,STU-009,Q-00221,CN-0177,Mathematics,Permutations and Combinations,correct,,103,2026-09-29T11:04:00
+5772d78e,STU-009,Q-00294,CN-0233,Mathematics,Vectors,incorrect,calculation error,167,2026-09-18T09:56:00
+09242392,STU-009,Q-00293,CN-0235,Mathematics,Vectors,incorrect,incomplete case analysis,417,2026-09-30T12:27:00
+f624026d,STU-009,Q-00254,CN-0201,Mathematics,Circles,correct,,125,2026-10-15T08:18:00
+28af9bea,STU-009,Q-00218,CN-0176,Mathematics,Sequences and Series,correct,,297,2026-10-02T13:20:00
+0bbc8157,STU-009,Q-00044,CN-0037,Physics,Gravitation,correct,,193,2026-09-28T17:49:00
+2b0809a7,STU-009,Q-00278,CN-0220,Mathematics,Limits and Derivatives,correct,,216,2026-10-13T13:18:00
+7bf69194,STU-009,Q-00276,CN-0221,Mathematics,Limits and Derivatives,correct,,249,2026-10-13T11:15:00
+5d119481,STU-009,Q-00216,CN-0173,Mathematics,Sequences and Series,incorrect,boundary condition ignored,332,2026-09-20T15:23:00
+c550a659,STU-009,Q-00119,CN-0094,Chemistry,Chemical Equilibrium,incorrect,incomplete case analysis,144,2026-09-22T12:05:00
+79c4ab80,STU-009,Q-00224,CN-0181,Mathematics,Permutations and Combinations,correct,,64,2026-09-27T17:31:00
+fb6d83c0,STU-009,Q-00274,CN-0217,Mathematics,Limits and Derivatives,incorrect,formula misapplication,244,2026-10-01T12:10:00
+e7b979ad,STU-009,Q-00002,CN-0002,Physics,Kinematics,correct,,182,2026-10-03T09:46:00
+94b25595,STU-009,Q-00220,CN-0171,Mathematics,Sequences and Series,incorrect,formula misapplication,385,2026-09-29T13:54:00
+e87c7241,STU-009,Q-00278,CN-0220,Mathematics,Limits and Derivatives,incorrect,formula misapplication,193,2026-09-23T10:38:00
+60fb37cf,STU-009,Q-00244,CN-0193,Mathematics,Straight Lines,incorrect,sign convention,67,2026-09-23T08:10:00
+75808b85,STU-009,Q-00287,CN-0226,Mathematics,Integration,incorrect,incomplete case analysis,187,2026-10-08T10:31:00
+a2005491,STU-009,Q-00276,CN-0221,Mathematics,Limits and Derivatives,incorrect,boundary condition ignored,141,2026-09-30T09:53:00
+63a079e8,STU-009,Q-00215,CN-0169,Mathematics,Sequences and Series,incorrect,formula misapplication,396,2026-09-21T14:02:00
+37864db2,STU-010,Q-00201,CN-0161,Mathematics,Quadratic Equations,incorrect,calculation error,137,2026-10-15T12:43:00
+c18c5bd2,STU-010,Q-00117,CN-0095,Chemistry,Chemical Equilibrium,incorrect,formula misapplication,192,2026-09-30T17:39:00
+c19c24ed,STU-010,Q-00034,CN-0029,Physics,Rotational Motion,incorrect,formula misapplication,290,2026-09-25T16:34:00
+598d83f9,STU-010,Q-00262,CN-0210,Mathematics,Trigonometric Equations,correct,,367,2026-09-17T09:32:00
+ba7b7f6f,STU-010,Q-00037,CN-0030,Physics,Rotational Motion,incorrect,formula misapplication,257,2026-10-01T12:43:00
+638ffb31,STU-010,Q-00251,CN-0201,Mathematics,Circles,correct,,244,2026-10-11T17:00:00
+64630424,STU-010,Q-00208,CN-0162,Mathematics,Quadratic Equations,incorrect,incomplete case analysis,263,2026-10-09T10:52:00
+6de45c6a,STU-010,Q-00062,CN-0050,Physics,Electrostatics,incorrect,unit conversion error,184,2026-09-27T09:45:00
+edbb8832,STU-010,Q-00160,CN-0128,Chemistry,Periodic Properties,incorrect,incomplete case analysis,60,2026-09-27T09:16:00
+e2065abd,STU-010,Q-00098,CN-0080,Physics,Optics,correct,,127,2026-09-19T10:01:00
+1d31146b,STU-010,Q-00065,CN-0053,Physics,Electrostatics,correct,,327,2026-09-25T17:50:00
+fa0d5d8e,STU-010,Q-00159,CN-0122,Chemistry,Periodic Properties,correct,,354,2026-09-20T08:37:00
+7ed62717,STU-010,Q-00266,CN-0213,Mathematics,Trigonometric Equations,incorrect,formula misapplication,174,2026-10-06T14:19:00
+0bfa754d,STU-010,Q-00151,CN-0121,Chemistry,Periodic Properties,incorrect,conceptual confusion,289,2026-10-04T15:09:00
+b124b974,STU-010,Q-00284,CN-0232,Mathematics,Integration,correct,,349,2026-10-02T12:39:00
+1618e68e,STU-010,Q-00255,CN-0205,Mathematics,Circles,correct,,416,2026-09-29T10:20:00
+97482b48,STU-010,Q-00048,CN-0033,Physics,Gravitation,incorrect,calculation error,99,2026-10-07T08:12:00
+911edff1,STU-010,Q-00163,CN-0132,Chemistry,Coordination Compounds,incorrect,incomplete case analysis,138,2026-10-11T11:22:00
+ba7b17b7,STU-010,Q-00118,CN-0096,Chemistry,Chemical Equilibrium,incorrect,formula misapplication,298,2026-10-15T10:18:00
+a0aad8da,STU-010,Q-00156,CN-0122,Chemistry,Periodic Properties,incorrect,boundary condition ignored,179,2026-09-27T15:46:00
+41c9fe45,STU-010,Q-00033,CN-0028,Physics,Rotational Motion,incorrect,incomplete case analysis,163,2026-09-25T12:10:00
+45644e6d,STU-010,Q-00032,CN-0027,Physics,Rotational Motion,incorrect,conceptual confusion,145,2026-09-27T10:32:00
+67c980e3,STU-010,Q-00154,CN-0121,Chemistry,Periodic Properties,incorrect,conceptual confusion,323,2026-09-20T10:27:00
+19ba3861,STU-010,Q-00100,CN-0076,Physics,Optics,correct,,406,2026-10-05T11:26:00
+3c5fa971,STU-010,Q-00283,CN-0227,Mathematics,Integration,correct,,211,2026-10-15T13:33:00
+5a1e6e38,STU-010,Q-00205,CN-0162,Mathematics,Quadratic Equations,incorrect,sign convention,67,2026-10-01T11:45:00
+7394f7f1,STU-010,Q-00210,CN-0167,Mathematics,Quadratic Equations,incorrect,incomplete case analysis,202,2026-09-25T10:16:00
+81358523,STU-010,Q-00299,CN-0238,Mathematics,Vectors,incorrect,formula misapplication,96,2026-10-13T17:23:00
+348db1a6,STU-010,Q-00253,CN-0203,Mathematics,Circles,incorrect,boundary condition ignored,75,2026-10-11T17:28:00
+3c72592d,STU-010,Q-00286,CN-0229,Mathematics,Integration,incorrect,formula misapplication,299,2026-09-30T09:29:00
+c949498c,STU-010,Q-00283,CN-0227,Mathematics,Integration,incorrect,calculation error,133,2026-09-28T09:40:00
+1144f6f4,STU-010,Q-00255,CN-0205,Mathematics,Circles,correct,,250,2026-09-19T13:46:00
+71889bab,STU-010,Q-00119,CN-0094,Chemistry,Chemical Equilibrium,incorrect,incomplete case analysis,248,2026-10-07T12:41:00
+a06abcfa,STU-010,Q-00261,CN-0209,Mathematics,Trigonometric Equations,incorrect,incomplete case analysis,70,2026-09-17T15:15:00
+53704755,STU-010,Q-00167,CN-0135,Chemistry,Coordination Compounds,incorrect,formula misapplication,216,2026-10-12T15:30:00
+c92e9bad,STU-010,Q-00043,CN-0035,Physics,Gravitation,incorrect,calculation error,69,2026-10-05T17:39:00
+e45a7b0c,STU-010,Q-00005,CN-0006,Physics,Kinematics,correct,,262,2026-10-01T10:53:00
+198d71eb,STU-010,Q-00263,CN-0211,Mathematics,Trigonometric Equations,correct,,107,2026-10-13T14:33:00
+ca239339,STU-010,Q-00037,CN-0030,Physics,Rotational Motion,incorrect,formula misapplication,217,2026-09-18T15:03:00
+ca70b236,STU-010,Q-00299,CN-0238,Mathematics,Vectors,correct,,141,2026-10-11T09:54:00
+2b6b69b5,STU-010,Q-00100,CN-0076,Physics,Optics,correct,,336,2026-10-05T16:09:00
+e063bcb7,STU-010,Q-00160,CN-0128,Chemistry,Periodic Properties,incorrect,incomplete case analysis,187,2026-10-06T12:52:00
+1a932dc9,STU-010,Q-00042,CN-0034,Physics,Gravitation,incorrect,formula misapplication,52,2026-10-05T09:57:00
+902c52f6,STU-010,Q-00154,CN-0121,Chemistry,Periodic Properties,incorrect,conceptual confusion,339,2026-09-20T12:20:00
+dbdbe6fc,STU-010,Q-00162,CN-0130,Chemistry,Coordination Compounds,incorrect,transcription error,218,2026-09-18T12:28:00
+12bfa34a,STU-011,Q-00157,CN-0125,Chemistry,Periodic Properties,correct,,139,2026-10-12T10:47:00
+59b1b4a9,STU-011,Q-00192,CN-0155,Chemistry,Aldehydes and Ketones,incorrect,boundary condition ignored,223,2026-09-17T11:17:00
+c6cefd5c,STU-011,Q-00015,CN-0009,Physics,Laws of Motion,incorrect,incomplete case analysis,141,2026-09-26T12:22:00
+9706dc79,STU-011,Q-00021,CN-0017,Physics,Work Energy Power,incorrect,formula misapplication,202,2026-10-08T12:51:00
+7a921869,STU-011,Q-00282,CN-0226,Mathematics,Integration,correct,,324,2026-09-30T17:35:00
+4ae49e93,STU-011,Q-00030,CN-0017,Physics,Work Energy Power,incorrect,calculation error,60,2026-09-25T15:50:00
+3b9639ee,STU-011,Q-00060,CN-0047,Physics,Thermodynamics,correct,,218,2026-09-29T17:37:00
+24c86e07,STU-011,Q-00112,CN-0090,Chemistry,Chemical Equilibrium,correct,,75,2026-09-19T08:01:00
+ea2a98e8,STU-011,Q-00114,CN-0089,Chemistry,Chemical Equilibrium,correct,,148,2026-10-03T09:01:00
+4c95eed0,STU-011,Q-00051,CN-0044,Physics,Thermodynamics,incorrect,calculation error,341,2026-10-03T13:08:00
+25581187,STU-011,Q-00108,CN-0088,Chemistry,Mole Concept,correct,,393,2026-10-08T14:04:00
+52d01f30,STU-011,Q-00111,CN-0089,Chemistry,Chemical Equilibrium,correct,,160,2026-10-12T17:40:00
+1d13727c,STU-011,Q-00118,CN-0096,Chemistry,Chemical Equilibrium,incorrect,formula misapplication,221,2026-09-21T17:48:00
+2206b3b6,STU-011,Q-00298,CN-0235,Mathematics,Vectors,incorrect,formula misapplication,290,2026-09-17T16:20:00
+9354ac97,STU-011,Q-00198,CN-0160,Chemistry,Aldehydes and Ketones,correct,,190,2026-10-06T12:34:00
+304e6169,STU-011,Q-00115,CN-0092,Chemistry,Chemical Equilibrium,correct,,91,2026-09-27T13:49:00
+44a36440,STU-011,Q-00300,CN-0236,Mathematics,Vectors,incorrect,sign convention,64,2026-10-15T15:22:00
+09536d97,STU-011,Q-00012,CN-0010,Physics,Laws of Motion,correct,,239,2026-09-26T12:23:00
+c8b00d99,STU-011,Q-00042,CN-0034,Physics,Gravitation,correct,,239,2026-09-19T13:28:00
+a0297b84,STU-011,Q-00227,CN-0184,Mathematics,Permutations and Combinations,incorrect,incomplete case analysis,95,2026-09-23T09:42:00
+b91a8060,STU-011,Q-00210,CN-0167,Mathematics,Quadratic Equations,correct,,65,2026-10-06T13:51:00
+cbc6dbc8,STU-011,Q-00108,CN-0088,Chemistry,Mole Concept,incorrect,formula misapplication,232,2026-10-11T12:33:00
+36ffb73d,STU-011,Q-00120,CN-0091,Chemistry,Chemical Equilibrium,correct,,193,2026-09-19T08:38:00
+727cda62,STU-011,Q-00225,CN-0177,Mathematics,Permutations and Combinations,correct,,220,2026-10-05T15:26:00
+5c2d174d,STU-011,Q-00118,CN-0096,Chemistry,Chemical Equilibrium,correct,,107,2026-10-09T13:23:00
+b36c78ad,STU-011,Q-00054,CN-0045,Physics,Thermodynamics,incorrect,unit conversion error,83,2026-10-05T08:09:00
+2a667c5b,STU-011,Q-00114,CN-0089,Chemistry,Chemical Equilibrium,correct,,123,2026-09-22T17:24:00
+da085443,STU-011,Q-00011,CN-0009,Physics,Laws of Motion,correct,,76,2026-10-05T10:39:00
+268264e9,STU-011,Q-00037,CN-0030,Physics,Rotational Motion,correct,,388,2026-10-06T11:44:00
+0d6c1176,STU-011,Q-00179,CN-0139,Chemistry,Hydrocarbons,incorrect,formula misapplication,236,2026-10-05T10:11:00
+d1425dd1,STU-011,Q-00197,CN-0157,Chemistry,Aldehydes and Ketones,incorrect,conceptual confusion,218,2026-09-25T16:05:00
+f28e44f5,STU-012,Q-00294,CN-0233,Mathematics,Vectors,correct,,262,2026-10-06T08:36:00
+d18f77f7,STU-012,Q-00216,CN-0173,Mathematics,Sequences and Series,incorrect,boundary condition ignored,299,2026-09-22T14:20:00
+9671172a,STU-012,Q-00076,CN-0061,Physics,Current Electricity,correct,,257,2026-09-21T14:28:00
+9b9b7401,STU-012,Q-00003,CN-0003,Physics,Kinematics,correct,,241,2026-09-17T15:25:00
+e5ee69b6,STU-012,Q-00284,CN-0232,Mathematics,Integration,correct,,68,2026-09-28T12:40:00
+8771989f,STU-012,Q-00183,CN-0148,Chemistry,General Organic Chemistry,incorrect,incomplete case analysis,235,2026-10-12T08:41:00
+ec476d99,STU-012,Q-00073,CN-0060,Physics,Current Electricity,incorrect,unit conversion error,141,2026-09-20T15:40:00
+23fbb10a,STU-012,Q-00080,CN-0064,Physics,Current Electricity,incorrect,boundary condition ignored,238,2026-09-26T14:40:00
+9510be30,STU-012,Q-00132,CN-0107,Chemistry,Electrochemistry,correct,,50,2026-10-05T16:18:00
+fefa65d9,STU-012,Q-00038,CN-0027,Physics,Rotational Motion,incorrect,conceptual confusion,127,2026-10-04T15:36:00
+d4afe0eb,STU-012,Q-00285,CN-0227,Mathematics,Integration,incorrect,calculation error,156,2026-09-22T10:50:00
+0822fc47,STU-012,Q-00080,CN-0064,Physics,Current Electricity,correct,,229,2026-10-07T10:51:00
+24dab0e2,STU-012,Q-00075,CN-0057,Physics,Current Electricity,correct,,112,2026-10-05T09:26:00
+61463bc7,STU-012,Q-00029,CN-0023,Physics,Work Energy Power,incorrect,formula misapplication,415,2026-10-02T14:53:00
+74c1d5fb,STU-012,Q-00205,CN-0162,Mathematics,Quadratic Equations,incorrect,sign convention,84,2026-09-23T12:38:00
+cc11674a,STU-012,Q-00136,CN-0109,Chemistry,Electrochemistry,correct,,324,2026-10-06T08:24:00
+dca18edc,STU-012,Q-00204,CN-0161,Mathematics,Quadratic Equations,correct,,69,2026-09-22T10:14:00
+90ee6ab8,STU-012,Q-00007,CN-0008,Physics,Kinematics,correct,,265,2026-10-01T13:55:00
+8d03bc87,STU-012,Q-00149,CN-0114,Chemistry,Chemical Bonding,incorrect,formula misapplication,418,2026-10-03T09:00:00
+164585f1,STU-012,Q-00283,CN-0227,Mathematics,Integration,correct,,98,2026-10-02T13:26:00
+77ea2865,STU-012,Q-00101,CN-0081,Chemistry,Mole Concept,correct,,211,2026-10-11T13:23:00
+2df14248,STU-012,Q-00225,CN-0177,Mathematics,Permutations and Combinations,correct,,190,2026-10-11T13:51:00
+486e7476,STU-012,Q-00281,CN-0225,Mathematics,Integration,incorrect,sign convention,196,2026-10-06T17:11:00
+45072dfd,STU-012,Q-00149,CN-0114,Chemistry,Chemical Bonding,incorrect,formula misapplication,248,2026-09-30T16:40:00
+3f47001b,STU-012,Q-00139,CN-0108,Chemistry,Electrochemistry,incorrect,unit conversion error,399,2026-10-12T09:06:00
+14ca38dd,STU-012,Q-00225,CN-0177,Mathematics,Permutations and Combinations,correct,,366,2026-10-15T15:24:00
+461639ef,STU-012,Q-00042,CN-0034,Physics,Gravitation,correct,,216,2026-09-30T13:12:00
+4548b95f,STU-012,Q-00200,CN-0155,Chemistry,Aldehydes and Ketones,correct,,260,2026-10-15T13:12:00
+2201ca5c,STU-012,Q-00198,CN-0160,Chemistry,Aldehydes and Ketones,incorrect,formula misapplication,206,2026-09-25T17:46:00
+ae30e167,STU-012,Q-00226,CN-0182,Mathematics,Permutations and Combinations,correct,,339,2026-09-18T08:54:00
+7970073b,STU-012,Q-00189,CN-0145,Chemistry,General Organic Chemistry,incorrect,conceptual confusion,102,2026-10-07T17:09:00
+84aa7c71,STU-012,Q-00197,CN-0157,Chemistry,Aldehydes and Ketones,incorrect,conceptual confusion,236,2026-10-07T16:30:00
+47f3ac31,STU-012,Q-00280,CN-0224,Mathematics,Limits and Derivatives,incorrect,formula misapplication,308,2026-10-15T14:07:00
+5b518854,STU-012,Q-00290,CN-0228,Mathematics,Integration,incorrect,incorrect assumption,188,2026-10-05T16:26:00
+8bc7b6f0,STU-012,Q-00276,CN-0221,Mathematics,Limits and Derivatives,incorrect,boundary condition ignored,201,2026-09-28T11:07:00
+1b0eb00c,STU-012,Q-00202,CN-0162,Mathematics,Quadratic Equations,incorrect,sign convention,146,2026-09-30T14:37:00
+2aa74bf1,STU-012,Q-00038,CN-0027,Physics,Rotational Motion,incorrect,conceptual confusion,359,2026-10-05T14:36:00
+0f62625b,STU-012,Q-00204,CN-0161,Mathematics,Quadratic Equations,correct,,412,2026-10-03T08:50:00
+afe5133b,STU-012,Q-00225,CN-0177,Mathematics,Permutations and Combinations,correct,,137,2026-09-29T11:00:00
+f65e4e12,STU-012,Q-00182,CN-0147,Chemistry,General Organic Chemistry,incorrect,conceptual confusion,407,2026-10-01T13:24:00

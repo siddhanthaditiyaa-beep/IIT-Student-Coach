@@ -1,0 +1,6 @@
+.env
+coach.db
+coach.db-journal
+__pycache__/
+*.pyc
+.venv/
